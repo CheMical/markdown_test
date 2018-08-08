@@ -4,8 +4,8 @@ test\\
 test2
 
 def
-: definition
+:definition
 
 def
 
-: definition
+:definition
